@@ -2,6 +2,6 @@ __author__ = 'jurek'
 
 print "aaa"
 print "bbb"
-print "ccc"
 print "ddd"
 print "fffff"
+print 3 * 4
